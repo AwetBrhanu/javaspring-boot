@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Interpriner
+Build-Jdk: 17.0.10
+Implementation-Title: cod_techniqes
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/cod_techniqes
+Created-By: Maven Integration for Eclipse
+
